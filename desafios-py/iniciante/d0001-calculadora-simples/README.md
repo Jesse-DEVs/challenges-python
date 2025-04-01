@@ -43,13 +43,13 @@ Caso a usuária tenha escolhido a **multiplicação**:
 **Entrada**
 
 ```
-5, 6
+5, 5
 ```
 
 **Saida**
 
 ```
-30
+25
 ```
 
 ---
